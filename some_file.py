@@ -1,3 +1,3 @@
 print("some file testing!!")
 print("One More")
-print("Include ssh remote")
+print("Include ssh remotes")
